@@ -1,0 +1,17 @@
+{
+  "name": "FakeClientJS",
+  "version": "1.0.0",
+  "authors": [
+    "scottheckel <scott.heckel@gmail.com>"
+  ],
+  "description": "This isn't a real library.",
+  "main": "main.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
